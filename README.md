@@ -1,2 +1,5 @@
 # CNN_CIFAR10
-for khu multimedia signal process class
+for KHU multimedia signal process class
+
+## Download Dataset
+You __must__ download the ![CIFAR_10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html) in './input' directory.
