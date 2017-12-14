@@ -1,6 +1,5 @@
 # CNN_CIFAR10
-- My CNN model for KHU multimedia signal process class
-- Model name is LeeNet.
+My CNN model 'LeeNet' for KHU multimedia signal process class.
 
 ## Requirement
 - tensorflow-gpu 1.3 or later
