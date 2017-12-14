@@ -13,16 +13,16 @@
 2. Untar in './input' directory.
 
 ## Check Dataset
-1. If you want to check information of dataset, run the 'CheckDataSet.ipynb'.
+If you want to check information of dataset, run the 'CheckDataSet.ipynb'.
 
 ## Train Model
-1. Input under instruction into your shell(ex. cmd.exe of Windows).
+Input under instruction into your shell(ex. cmd.exe of Windows).
 ```
 python train.py
 ```
 
 ## Test Model
-1. Input under instruction into your shell(ex. cmd.exe of Windows).
+Input under instruction into your shell(ex. cmd.exe of Windows).
 ```
 python train.py
 ```
