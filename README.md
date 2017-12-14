@@ -26,3 +26,6 @@ Input under instruction into your shell(ex. cmd.exe of Windows).
 ```
 python train.py
 ```
+
+## configuration model
+If you want to edit epoch, modify 'config.py'.
