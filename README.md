@@ -28,4 +28,4 @@ python train.py
 ```
 
 ## configuration model
-If you want to edit epoch, modify 'config.py'.
+If you want to edit number of epochs or batch size etc., modify 'config.py'.
