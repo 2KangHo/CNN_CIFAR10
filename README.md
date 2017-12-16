@@ -23,7 +23,7 @@ python train.py
 ## Test Model
 Input under instruction into your shell(ex. cmd.exe of Windows).
 ```
-python train.py
+python test.py
 ```
 
 ## configuration model
